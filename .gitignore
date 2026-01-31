@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# PowerFactory
+*.log
+*.tmp
+*.bak
+*.pfd
+*.pfs
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
