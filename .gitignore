@@ -1,12 +1,15 @@
 # Python
 __pycache__/
+*.py
 *.pyc
 *.pyo
 *.pyd
+
+# Virtual environments
 .venv/
 env/
 
-# IDE
+# IDEs
 .vscode/
 .idea/
 
@@ -17,6 +20,6 @@ env/
 *.pfd
 *.pfs
 
-# Betriebssystem
+# OS
 .DS_Store
 Thumbs.db
